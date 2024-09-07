@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 700px;
+    height: 1000px;
     margin: 0;
 }
 
@@ -31,16 +31,3 @@ main {
 img {
     max-width: 90%;
 }
-
-.continuacao {
-    display: none; 
-    text-align: center;
-    padding: 20px;
-    margin-top: 50px;
-    font-size: 1.5em;
-    color: #333;
-    background-color: #f5f5f5;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-  }
-  
